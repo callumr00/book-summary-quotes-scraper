@@ -2,7 +2,7 @@
 
 ## Description
 
-Get a number of quotes, of a specified amount but random selection, from the quotes chosen to be featured across my book summaries on [callumr.com](https://callumr.com)
+Get a number of quotes, of a specified amount but random selection, from the quotes chosen to be featured across my book summaries on [callumr.com](https://callumr.com).
 
 ## Output
 
