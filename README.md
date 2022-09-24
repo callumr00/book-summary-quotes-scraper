@@ -1,4 +1,4 @@
-# CardMarketScrape
+# Quotes
 
 ## Description
 
