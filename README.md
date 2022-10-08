@@ -6,4 +6,4 @@ Get a number of quotes, of a specified amount but random selection, from the quo
 
 ## Output
 
-![Screenshot of terminal output](https://github.com/cally2k/quotes/blob/master/img/terminalOutput.png)
+![Screenshot of terminal output](https://github.com/cally2k/quotes/blob/master/img/terminalOutput2.png)
