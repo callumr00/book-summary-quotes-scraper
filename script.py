@@ -30,7 +30,7 @@ def getQuotes():
     items = []
 
     # Print task update
-    print(f"\nGetting a selection of {amnt} quotes from book summaries at callumr.com...\n")
+    print(f"\nGetting a selection of {amnt} quotes from {len(getBooks())} book summaries at callumr.com...\n")
 
     # For each book summary, append quotes to list
     for i in tqdm(getBooks()):
