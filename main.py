@@ -39,7 +39,7 @@ def getQuotes():
 
         # Find all quotes on page
         soup = BeautifulSoup(requests.get(url).content, 'html.parser')
-        quotes = soup.find_all('div', class_='content__quote')
+        quotes = soup.find_all('div', class_='quote')
 
         # Append each quote to list
         for i in range(len(quotes)):
